@@ -29,7 +29,7 @@ module.exports = async function(deployer, network, accounts) {
     await tokenFarm.addAllowedTokens(dappToken.address);
     await tokenFarm.setPriceFeedContract(
       dappToken.address,
-      "0x777A68032a88E5A84678A77Af2CD65A7b3c0775a"
+      "0xeb8b2fa1ff8a41a9dc8161672121895e6b57638f"
     );
   }
 };
