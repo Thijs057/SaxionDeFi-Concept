@@ -18,7 +18,7 @@ class Navbar extends Component {
             className="d-inline-block align-top"
             alt=""
           />
-          &nbsp; DApp Token Farm
+          &nbsp; SaxionToken Farm
         </a>
 
         <ul className="navbar-nav px-3">
